@@ -1,1 +1,1 @@
-eyzalts: node bot.js
+giovanni: nodemon bot.js
