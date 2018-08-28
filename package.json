@@ -9,6 +9,7 @@
     "discord.js": "^11.4.2",
     "ms": "^2.1.1",
     "npm-git-install": "^0.3.0",
-    "winston": "^3.0.0"
+    "winston": "^3.0.0",
+    "nodemon": "^1.18.3"
   }
 }
