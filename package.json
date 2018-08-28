@@ -1,0 +1,14 @@
+{
+  "name": "Giovanni",
+  "version": "2.0.0",
+  "description": "Team Bot",
+  "main": "bot.js",
+  "author": "Liam Middelhurst",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1",
+    "npm-git-install": "^0.3.0",
+    "winston": "^3.0.0"
+  }
+}
