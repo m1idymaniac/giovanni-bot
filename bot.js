@@ -5,7 +5,7 @@ const bot = new Discord.Client({disableEveryone: true});
 bot.commands = new Discord.Collection();
 
 //Filesystem
-fs.readdir("./commands/", (err, files) => {
+fs.readdir("./Commands/", (err, files) => {
 
   if(err) console.log(err);
 
