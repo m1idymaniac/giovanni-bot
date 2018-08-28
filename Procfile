@@ -1,1 +1,1 @@
-giovanni: nodemon node .
+giovanni: node bot.js
